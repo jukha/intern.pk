@@ -1,0 +1,54 @@
+
+/* first page css */
+.my-column{
+    background-color: #eff0f1!important;
+    
+}
+
+.logo{
+    height: 80px;
+}
+.person{
+    height: 200px;
+    
+}
+.virus{
+    height: 50px;
+}
+
+/* second page css */
+.second-my-column{
+    position: relative;
+    background-color: #eff0f1;
+    height: 50px;
+}
+.top-logo{
+    height: 60px;
+    position: absolute;
+    top:20px;
+
+}
+.close-button{
+    border:none;
+}
+.second-btn{
+    font-size: 18px;
+}
+/* fourth page css */
+.my-list{
+    font-size: 14px;
+}
+
+
+.list{
+    list-style: none;
+    position: absolute;
+    top:50px;
+    left:250px;
+   
+
+}
+.list li{
+    display: inline-block;
+    padding: 0 10px;
+}
